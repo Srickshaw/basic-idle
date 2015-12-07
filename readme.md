@@ -1,0 +1,1 @@
+A very basic (and very incomplete) idle game - I plan on adding more to this in the future.
