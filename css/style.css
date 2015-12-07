@@ -13,7 +13,8 @@ body {
 	max-width: 50%;
 }
 .button {
-	background: black;				
+	background: black;	
+	border-radius: 8px;
 	margin: 0.5em 0;
 	-moz-user-select: none;
 	padding: 1em;
@@ -52,7 +53,8 @@ body {
 	margin: 1em 0;				
 }
 .upgrade {
-	background: #622d98;				
+	background: #622d98;	
+	border-radius: 8px;
 	color: white;
 	font-weight: 700;
 	margin-left: 2%;
