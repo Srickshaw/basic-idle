@@ -79,8 +79,7 @@ var testButton = {
 }
 
 $('#clicker').click(function() {
-	countContain.html(testButton.updateMainText());
-	return testButton.counter += clicker.clickPower;
+	return testButton.updateMoney(clicker.clickPower);
 });
 
 window.onload = function(){		
