@@ -56,8 +56,8 @@ var testButton = {
 		countContain.html(testButton.updateMainText());					
 	},
 	updateMoney: function(monPS) {
-		countContain.html(testButton.updateMainText());
 		testButton.counter += monPS;
+		countContain.html(testButton.updateMainText());
 		return testButton.counter;				
 	},	
 	initTimer: function() {
